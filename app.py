@@ -56,7 +56,7 @@ def obter_llm_chain():
 
 # Função para carregar histórico de conversas dos últimos 7 dias
 def carregar_historico_conversas():
-    caminho_base = "D:/DataExperience/Zoe/zoe_modulo/mensagens_amobeleza"
+    caminho_base = "./mensagens_amobeleza"
     data_atual = datetime.now()
     historico_conversas = ""
 
@@ -74,7 +74,7 @@ def carregar_historico_conversas():
 
 # Função para salvar as mensagens trocadas em um arquivo de texto
 def salvar_mensagens():
-    caminho_base = "D:/DataExperience/Zoe/zoe_modulo/mensagens_amobeleza"
+    caminho_base = "./mensagens_amobeleza"
     pasta_data = datetime.now().strftime("%Y%m%d")
     caminho_pasta = os.path.join(caminho_base, pasta_data)
     
@@ -90,7 +90,7 @@ def salvar_mensagens():
 
 # Função para salvar a contagem de mensagens em um arquivo
 def salvar_contagem_mensagens():
-    caminho_base = "D:/DataExperience/Zoe/zoe_modulo/contagem_mensagem_amobeleza"
+    caminho_base = "./contagem_mensagem_amobeleza"
     pasta_data = datetime.now().strftime("%Y%m%d")
     caminho_pasta = os.path.join(caminho_base, pasta_data)
     
@@ -163,7 +163,7 @@ def inicializar_estado_sessao():
         ]
     
     # Carregar o histórico de conversas dos últimos 7 dias
-    caminho_base = "D:/DataExperience/Zoe/zoe_modulo/mensagens_amobeleza"
+    caminho_base = "./mensagens_amobeleza"
     if "llm_chain" not in st.session_state:
         try:
             historico_conversas = carregar_historico_conversas()
@@ -178,7 +178,7 @@ def inicializar_estado_sessao():
         st.session_state["llm_chain"] = obter_llm_chain()
 
     # Definir o caminho para o arquivo de perfumes
-    caminho_arquivo_perfumes = "D:/DataExperience/Zoe/zoe_modulo/produtos/perfumes.csv"  # Substitua pelo caminho correto
+    caminho_arquivo_perfumes = "./produtos/perfumes.csv"  # Substitua pelo caminho correto
     if "perfumes" not in st.session_state:
         try:
             st.session_state["perfumes"] = carregar_perfumes(caminho_arquivo_perfumes)
