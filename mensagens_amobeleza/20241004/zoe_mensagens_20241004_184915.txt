@@ -1,0 +1,20 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Zoe, vc tem algum perfume com fragrancia de amadeirado ?
+Zoe: Os perfumes com a fragrância de amadeirado são:
+Shakira Dance Midnight Muse (Marca: Shakira)
+usuario: e perfumes com fragrancia de baunilha ?
+Zoe: Os perfumes com a fragrância de baunilha são:
+Lancôme Idôle Aura (Marca: Lancôme)
+usuario: perfume com fragrancia floral ?
+Zoe: Não encontrei perfumes com a fragrância de não há uma fragrância específica mencionada na pergunta..
+usuario: perfume com fragrancia de floral?
+Zoe: Não encontrei perfumes com a fragrância de floral..
+usuario: perfume com fragrancia de floral?
+Zoe: Não encontrei perfumes com a fragrância de floral..
+usuario: perfumes com fragrancia de floral?
+Zoe: Os perfumes com a fragrância de floral são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+Benetton Colors Purple (Marca: United Colors of Benetton)
+Prada Paradoxe (Marca: Lancôme)
+Giorgio Armani Sì Passione (Marca: Giorgio Armani)

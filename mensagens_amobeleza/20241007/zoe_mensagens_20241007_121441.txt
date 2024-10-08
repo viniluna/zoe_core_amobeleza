@@ -1,0 +1,7 @@
+Zoe: Boa tarde, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Zoe, vou sair para um jantar, qual perfume me recomenda e porque ?
+Zoe: Eu recomendaria o perfume Giorgio Armani My Way para o jantar. Este perfume é uma fragrância elegante e sofisticada, perfeita para uma ocasião especial como um jantar. Com notas de bergamota, flor de laranjeira, tuberosa e baunilha, o Giorgio Armani My Way é uma escolha luxuosa que certamente deixará uma boa impressão durante o jantar. Além disso, sua fixação é excelente, garantindo que você permaneça perfumado durante toda a noite.
+usuario: e de qual marca é esse perfume ?
+Zoe: Não encontrei perfumes da marca 'desculpe, mas sem mais contexto não é possível identificar a marca de perfume mencionada pelo usuário.'.
+usuario: e de qual perfume estamos falando ?
+Zoe: Desculpe, mas não há informações suficientes para identificar de qual perfume estamos falando. Você poderia fornecer mais detalhes ou fazer uma descrição do perfume em questão para que eu possa ajudá-lo melhor?

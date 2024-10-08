@@ -1,0 +1,34 @@
+Zoe: Boa noite, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Oi zoe, tudo bem?
+Zoe: Olá! Tudo bem e você? Como posso te ajudar hoje?
+usuario: gostaria de saber sobre os perfumes 
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- LancÃ´me IdÃ´le Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: Voce Pode me passa o link de compra do Benetton Colors Purple?
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: e qual o site da AmoBeleza?
+Zoe: Você pode encontrar todos os perfumes disponíveis na AmoBeleza em www.amobeleza.com.br. Lá você terá acesso a todas as informações sobre os produtos, incluindo descrições detalhadas, preços e formas de compra. Se precisar de mais alguma informação, estou à disposição para ajudar.
+usuario: Zoe, Quero saber quais perfumes você tem da Armani?
+Zoe: Não encontrei perfumes da marca 'Armani'.
+usuario: E quais as marcas de perfume que você tem?
+Zoe: As marcas disponíveis são: Jean Paul Gaultier, Giorgio Armani, Gabriela Sabatini, United Colors of Benetton, Calvin Klein, Montblanc, Antonio Banderas, Lancôme, Yves Saint Laurent, Shakira.
+usuario: Quais perfume você tem da marca  Yves Saint Laurent?
+Zoe: Não encontrei perfumes da marca 'Yves Saint Laurent.'.
+usuario: Quais perfumes vc tem da Yves Saint Laurent
+Zoe: Os perfumes disponíveis da marca Yves Saint Laurent são:
+Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+usuario: Quais perfumes vc tem da Yves Saint Laurent?
+Zoe: Os perfumes disponíveis da marca Yves Saint Laurent são:
+Yves Saint Laurent Libre (Marca: Yves Saint Laurent)

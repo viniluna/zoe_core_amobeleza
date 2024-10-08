@@ -1,0 +1,35 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Boa noite Zoe, quais marcas de perfume vcs tem na Amobelza ?
+Zoe: As marcas disponíveis são: Giorgio Armani, Antonio Banderas, Jean Paul Gaultier, Lancôme, Gabriela Sabatini, Calvin Klein, Montblanc, United Colors of Benetton, Shakira, Yves Saint Laurent.
+usuario: Zoe gostaria de usar um parfume para ir ao parque, qual me recomenda ?
+Zoe: Eu recomendaria o perfume "Benetton Colors Purple" da marca United Colors of Benetton para a ocasião de ir ao parque. Este perfume é conhecido por ser fresco, leve e com notas frutadas, perfeito para um passeio ao ar livre. Além disso, sua fragrância é suave o suficiente para não ser enjoativa em um ambiente mais aberto como um parque. Assim, o Benetton Colors Purple seria uma escolha ideal para um dia descontraído ao ar livre.
+usuario: Zoe quero ver os perfumes da marca Gabriela Sabatini
+Zoe: Não encontrei perfumes da marca 'gabriela sabatini.'.
+usuario: quero ver os perfumes da Giorgio Armani
+Zoe: Os perfumes disponíveis da marca giorgio armani são:
+Giorgio Armani My Way (Marca: Giorgio Armani)
+Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+usuario: me mande o link de compra do perfume Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: Zoe me liste os perfumes que vc tem 
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: quero comprara o perfume Shakira Dance Midnight Muse
+Zoe: Aqui está o link de compra para o perfume Shakira Dance Midnight Muse: https://www.amobeleza.com.br/perfume-shakira-dance-midnight-muse-feminino-eau-de-toilette-50-ml/p
+usuario: Zoe vc tem perfume com fragrancia amadeirado
+Zoe: Os perfumes com a fragrância de amadeirado são:
+Shakira Dance Midnight Muse (Marca: Shakira)
+usuario: Zoe vc tem perfume com fragrancia de baunilha
+Zoe: Não encontrei perfumes com a fragrância de Baunilha..

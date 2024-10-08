@@ -1,0 +1,17 @@
+Zoe: Bom dia, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quero saber quais marcas de perfume vc tem na Amobeleza
+Zoe: As marcas disponíveis são: Jean Paul Gaultier, Giorgio Armani, Gabriela Sabatini, United Colors of Benetton, Calvin Klein, Montblanc, Antonio Banderas, Lancôme, Yves Saint Laurent, Shakira.
+usuario: me mostre os da Gabriela Sabatini
+Zoe: Os perfumes disponíveis da marca Gabriela Sabatini são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+usuario: me conte sobre esse perfume
+Zoe: Claro! Qual perfume específico você gostaria de saber mais? Me dê o nome ou a marca do perfume para que eu possa te fornecer todas as informações necessárias.
+usuario: Gabriela Sabatini
+Zoe: Não encontrei perfumes da marca 'Gabriela Sabatini.'.
+usuario: me comte  mais sobre o perfume da Gabriela Sabatini
+Zoe: Os perfumes disponíveis da marca Gabriela Sabatini são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+usuario: me conte mais sobre esse perfume Gabriela Sabatini Eau de Toilette
+Zoe: Aqui está o link de compra para o perfume Gabriela Sabatini Eau de Toilette: https://www.amobeleza.com.br/perfume-gabriela-sabatini-feminino-eau-de-toilette-30-ml/p
+usuario: pedi para vc me falar sobre o perfume nao para mandar o link de compra
+Zoe: Peço desculpas pela minha resposta anterior. Qual perfume você gostaria de saber mais? Posso te fornecer todas as informações sobre ele, incluindo suas características, descrição e nome. Me conte o nome ou a marca do perfume para que eu possa te ajudar da melhor forma possível.

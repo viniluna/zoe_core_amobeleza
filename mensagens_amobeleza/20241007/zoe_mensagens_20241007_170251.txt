@@ -1,0 +1,27 @@
+Zoe: Boa tarde, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Zoe quais perfumes vc tem na Amobeleza ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: e quais marcas vc tem na Amobeleza ?
+Zoe: As marcas disponíveis são: Giorgio Armani, Antonio Banderas, Jean Paul Gaultier, Lancôme, Gabriela Sabatini, Calvin Klein, Montblanc, United Colors of Benetton, Shakira, Yves Saint Laurent.
+usuario: quais frangrancias vc tem na Amobelza ?
+Zoe: Não encontrei perfumes com a fragrância de Amobelza.
+usuario: gostaria de ver os pergfumes da Calvin Klein
+Zoe: Os perfumes disponíveis da marca calvin klein são:
+Calvin Klein Euphoria (Marca: Calvin Klein)
+usuario: pode me mandar o link de compra
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar o Calvin Klein Euphoria
+Zoe: Aqui está o link de compra para o perfume Calvin Klein Euphoria: https://www.amobeleza.com.br/perfume-calvin-klein-euphoria-feminino-eau-de-parfum-30-ml/p

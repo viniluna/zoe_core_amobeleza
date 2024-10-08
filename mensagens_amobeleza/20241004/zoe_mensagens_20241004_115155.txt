@@ -1,0 +1,34 @@
+Zoe: Bom dia, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quero saber quais marcas de perfume vc tem na Amobeleza
+Zoe: As marcas disponíveis são: Lancôme, Jean Paul Gaultier, Montblanc, Shakira, Giorgio Armani, Antonio Banderas, United Colors of Benetton, Yves Saint Laurent, Gabriela Sabatini, Calvin Klein.
+usuario: me mostre os da Gabriela Sabatini
+Zoe: Os perfumes disponíveis da marca Gabriela Sabatini são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+usuario: me conte sobre esse perfume
+Zoe: Claro! Para eu te ajudar melhor, por favor me informe o nome do perfume sobre o qual você gostaria de saber mais.
+usuario: me conte sobre o Gabriela Sabatini Eau de Toilette
+Zoe: Os perfumes disponíveis da marca Gabriela Sabatini são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+usuario: me comte mais sobre o perfume da Gabriela Sabatini
+Zoe: Não encontrei perfumes da marca 'Gabriela Sabatini.'.
+usuario: quais fragrancias vc tem ?
+Zoe: Não encontrei perfumes com a fragrância de Não há nenhuma fragrância mencionada na pergunta..
+usuario: Me mostre todos os perfumes disponíveis
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- LancÃ´me IdÃ´le Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: conte mais sobre o perfume Benetton Colors Purple
+Zoe: Não encontrei perfumes com a fragrância de Benetton Colors Purple..
+usuario: me conte mais sobre o perfume Gabriela Sabatini Eau de Toilette
+Zoe: Não encontrei perfumes com a fragrância de Gabriela Sabatini Eau de Toilette.

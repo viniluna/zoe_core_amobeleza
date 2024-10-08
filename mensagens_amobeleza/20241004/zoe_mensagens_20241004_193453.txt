@@ -1,0 +1,9 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Bopa noite Zoe, como vc esta ?
+Zoe: Olá! Eu sou apenas uma assistente virtual, então não tenho sentimentos ou estado físico, mas estou aqui para te ajudar com informações sobre perfumes da AmoBeleza. Como posso te ajudar hoje?
+usuario: gostaria de um perfume para sair a noite, qual me recomenda ?
+Zoe: Para sair à noite, recomendo o perfume "Black Opium" da Yves Saint Laurent. Ele possui uma fragrância intensa e sensual, perfeita para ocasiões noturnas. Você pode encontrar esse perfume e outras opções para sair à noite na AmoBeleza. Gostaria de mais informações sobre o "Black Opium" ou outros perfumes disponíveis?
+usuario: me passe o link de compra dele
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quais perfumes vc tem na amobeleza ?
+Zoe: Não encontrei perfumes da marca 'amobeleza'.

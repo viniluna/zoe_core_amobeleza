@@ -1,0 +1,5 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: vou ir para praia e preciso de um perfume, qual deveria comprar ?
+Zoe: Eu recomendaria o perfume "Shakira Dance Midnight Muse" para a ida à praia. Este perfume possui uma fragrância floral frutada, perfeita para um ambiente descontraído e ensolarado como a praia. Além disso, possui notas de frutas tropicais e flores brancas, o que combina muito bem com a atmosfera praiana. Sua fragrância leve e refrescante certamente complementará o clima de relaxamento e diversão na praia.
+usuario: certo me mande o link de compra dele
+Zoe: Não encontrei o perfume específico para gerar o link de compra.

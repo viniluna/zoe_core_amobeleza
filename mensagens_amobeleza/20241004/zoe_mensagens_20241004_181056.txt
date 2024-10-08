@@ -1,0 +1,3 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Zoe, vc tem algum perfume com fragrancia de baunilha ?
+Zoe: Não encontrei perfumes com a fragrância de Baunilha..

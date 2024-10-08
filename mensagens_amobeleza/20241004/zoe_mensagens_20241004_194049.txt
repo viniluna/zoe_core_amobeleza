@@ -1,0 +1,39 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Quais perfumes vc tem na Amobeleza ?
+Zoe: As marcas disponíveis são: Lancôme, Montblanc, United Colors of Benetton, Antonio Banderas, Calvin Klein, Jean Paul Gaultier, Gabriela Sabatini, Yves Saint Laurent, Giorgio Armani, Shakira.
+usuario: Quais marcas de perfumes vc tem na Amobeleza ?
+Zoe: As marcas disponíveis são: Lancôme, Montblanc, United Colors of Benetton, Antonio Banderas, Calvin Klein, Jean Paul Gaultier, Gabriela Sabatini, Yves Saint Laurent, Giorgio Armani, Shakira.
+usuario: Quais perfumes vc tem na Amobeleza ?
+Zoe: As marcas disponíveis são: Lancôme, Montblanc, United Colors of Benetton, Antonio Banderas, Calvin Klein, Jean Paul Gaultier, Gabriela Sabatini, Yves Saint Laurent, Giorgio Armani, Shakira.
+usuario: esta errado quero saber as marcas
+Zoe: As marcas disponíveis são: Lancôme, Montblanc, United Colors of Benetton, Antonio Banderas, Calvin Klein, Jean Paul Gaultier, Gabriela Sabatini, Yves Saint Laurent, Giorgio Armani, Shakira.
+usuario: quero saber os perfumes que vc tem na Amobelza
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: quais perfumes vc tam na Amobeleza ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+

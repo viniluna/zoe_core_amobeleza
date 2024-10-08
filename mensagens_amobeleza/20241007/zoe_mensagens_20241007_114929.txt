@@ -1,0 +1,7 @@
+Zoe: Bom dia, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Gostaria de um perfume para um jantar que vou hoje ?
+Zoe: Eu recomendaria o perfume Yves Saint Laurent Libre para o jantar de hoje. Este perfume é uma fragrância elegante e sofisticada, perfeita para uma ocasião especial como um jantar. Sua combinação de lavanda, flor de laranjeira e baunilha cria uma aura sedutora e luxuosa, ideal para deixar uma impressão marcante. Além disso, a marca Yves Saint Laurent é conhecida por sua qualidade e prestígio, o que pode adicionar um toque extra de glamour à sua noite.
+usuario: e qual a marca desse perfume ?
+Zoe: Não encontrei perfumes da marca 'desculpe, mas não é possível identificar a marca de perfume mencionada pelo usuário, pois a pergunta não fornece informações suficientes para determinar a marca específica.'.
+usuario: vc sabe qual perfume me recomendou ?
+Zoe: Desculpe, mas não tenho acesso ao seu histórico de compras ou recomendações anteriores. No entanto, posso te ajudar a escolher um novo perfume com base nas suas preferências de fragrância. Você tem alguma preferência específica em relação a fragrâncias, como floral, cítrico, amadeirado, entre outros? Posso te indicar algumas opções disponíveis na AmoBeleza que se encaixam no seu perfil.

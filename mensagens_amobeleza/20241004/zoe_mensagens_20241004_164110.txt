@@ -1,0 +1,33 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quero comprar o Giorgio Armani Sì Passione
+Zoe: Aqui está o link de compra para o perfume Giorgio Armani Sì Passione: https://www.amobeleza.com.br/perfume-giorgio-armani-si-passione-feminino-eau-de-parfum-30-ml/p
+usuario: quero comprar o Antonio Banderas Her Secret Temptation
+Zoe: Aqui está o link de compra para o perfume Antonio Banderas Her Secret Temptation: https://www.amobeleza.com.br/perfume-antonio-banderas-her-secret-temptation-feminino-eau-de-toilette-50-ml/p
+usuario: quais perfumes vc tem na Amobeleza
+Zoe: Não encontrei perfumes da marca 'Amobeleza'.
+usuario: quais perfumes vc tem ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: me mostre só os perfumes  da Montblanc
+Zoe: Os perfumes disponíveis da marca Montblanc são:
+Montblanc Explorer (Marca: Montblanc)
+usuario: agora quero ver só os perfumes do Antonio Banderas
+Zoe: Não encontrei perfumes da marca 'Antonio Banderas.'.
+usuario: agora quero ver só os perfumes do Antonio Banderas
+Zoe: Os perfumes disponíveis da marca Antonio Banderas são:
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+usuario: agora quero ver só os perfumes do Antonio Banderas
+Zoe: Os perfumes disponíveis da marca Antonio Banderas são:
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)

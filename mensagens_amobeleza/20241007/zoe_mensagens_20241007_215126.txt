@@ -1,0 +1,5 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: me mande o link de compra do perfume Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: me mande o link de compra do perfume Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.

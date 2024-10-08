@@ -1,0 +1,6 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: agora quero ver só os perfumes do Antonio Banderas
+Zoe: Os perfumes disponíveis da marca Antonio Banderas são:
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+usuario: Zoe, vc tem algum perfumo com fragrancia de baunilha ?
+Zoe: Não encontrei perfumes com a fragrância de Baunilha..

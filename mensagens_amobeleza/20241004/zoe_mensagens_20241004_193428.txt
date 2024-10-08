@@ -1,0 +1,3 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Gostaria do link de compra do Prada Paradoxe
+Zoe: Aqui está o link de compra para o perfume Prada Paradoxe: https://www.amobeleza.com.br/perfume-prada-paradoxe-feminino-eau-de-parfum-30-ml/p

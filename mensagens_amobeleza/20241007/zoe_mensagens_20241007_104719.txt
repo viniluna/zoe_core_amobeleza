@@ -1,0 +1,5 @@
+Zoe: Bom dia, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Bom dia Zoe, vou sair para um parque, que perfume me recomenda ?
+Zoe: Eu recomendaria o perfume Yves Saint Laurent Libre para a ocasião de sair para um parque. Este perfume tem uma fragrância fresca e vibrante, perfeita para um dia ao ar livre. Com notas de lavanda, flor de laranjeira e baunilha, o Yves Saint Laurent Libre é uma escolha refrescante e elegante para aproveitar o dia no parque. Além disso, sua fixação é excelente, garantindo que você permaneça cheiroso por mais tempo.
+usuario: e de qual marca é esse perfume ?
+Zoe: Não encontrei perfumes da marca 'a marca do perfume mencionado não foi especificada.'.

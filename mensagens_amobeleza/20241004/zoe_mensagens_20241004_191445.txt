@@ -1,0 +1,13 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: perfumes com fragrancia floral ?
+Zoe: Os perfumes com a fragrância de floral são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+Benetton Colors Purple (Marca: United Colors of Benetton)
+Prada Paradoxe (Marca: Lancôme)
+Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+usuario: perfumes com fragrancia amadeirado ?
+Zoe: Os perfumes com a fragrância de amadeirado são:
+Shakira Dance Midnight Muse (Marca: Shakira)
+usuario: perfumes com fragrancia doce ?
+Zoe: Não encontrei perfumes com a fragrância de Fragrância doce..

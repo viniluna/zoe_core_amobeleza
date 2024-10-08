@@ -1,0 +1,29 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quero saber quais marcas de perfume vc tem na Amobeleza
+Zoe: As marcas disponíveis são: Lancôme, Gabriela Sabatini, Yves Saint Laurent, Montblanc, Shakira, Giorgio Armani, Calvin Klein, Jean Paul Gaultier, Antonio Banderas, United Colors of Benetton.
+usuario: me mostre os da Gabriela Sabatini
+Zoe: Os perfumes disponíveis da marca Gabriela Sabatini são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+usuario: vc acha adequado usar esse perfume para um jantar ?
+Zoe: Claro! Para te ajudar da melhor forma possível, poderia me dizer qual perfume você está considerando usar para o jantar? Assim poderei te dar uma opinião mais precisa.
+usuario: vc acha adequado usar o perfume  Gabriela Sabatini Eau de Toilette em um jantar ?
+Zoe: Sim, o perfume Gabriela Sabatini Eau de Toilette é uma ótima escolha para um jantar. Sua fragrância floral e fresca é perfeita para ocasiões mais elegantes e sofisticadas. Além disso, sua fixação é excelente, garantindo que você permaneça perfumado durante toda a noite. Se você deseja adquirir este perfume, você pode encontrá-lo disponível para compra na AmoBeleza. Espero que aproveite seu jantar com essa escolha!
+usuario: quais fragrancias nao são adequadas para jantares ?
+Zoe: Para jantares, é recomendado evitar fragrâncias muito intensas, pesadas ou adocicadas, pois podem ser excessivas e incomodar as pessoas ao redor. Perfumes com notas muito fortes de especiarias, tabaco ou couro também podem não ser ideais, pois podem interferir no aroma dos alimentos e bebidas. Em geral, fragrâncias frescas, florais suaves e cítricas são mais adequadas para jantares, pois são mais leves e agradáveis. Espero que essas dicas te ajudem a escolher o perfume perfeito para a ocasião!
+usuario: pode falar quais fragrancias vcs tem am sua listas de perfumes ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- LancÃ´me IdÃ´le Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: Qual a fragrancia do perfume Giorgio Armani My Way ?
+Zoe: Não encontrei perfumes com a fragrância de My Way.

@@ -1,0 +1,20 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quais perfumes vc tam na Amobeleza ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- Lancôme Idôle Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: quais marcas de perfumes vc tam na Amobeleza ?
+Zoe: As marcas disponíveis são: Lancôme, Montblanc, United Colors of Benetton, Antonio Banderas, Calvin Klein, Jean Paul Gaultier, Gabriela Sabatini, Yves Saint Laurent, Giorgio Armani, Shakira.
+usuario: desses perfumes qual vc me recomenda para sair a noite ?
+Zoe: Para sair à noite, recomendo o perfume XYZ da marca ABC. Ele possui uma fragrância sofisticada e marcante, perfeita para eventos noturnos. Você pode encontrar esse perfume e outras opções para a noite na AmoBeleza. Se desejar mais informações ou ajuda para comprar, estou à disposição.

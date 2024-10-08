@@ -1,0 +1,40 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Boa tarde Zoe, quais perfumes vcs tem na Amobeleza ?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- LancÃ´me IdÃ´le Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: Quais perfumes da Giorgio Armani vcs tem ?
+Zoe: Os perfumes disponíveis da marca Giorgio Armani são:
+Giorgio Armani My Way (Marca: Giorgio Armani)
+Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+usuario: me con te um pouco sobre o perfume Giorgio Armani SÃ¬ Passione?
+Zoe: Claro! O perfume Giorgio Armani Sì Passione é uma fragrância feminina marcante e apaixonante. Com notas de groselha preta, pêra, rosa de maio, jasmim e baunilha, ele é perfeito para mulheres confiantes e sedutoras. Você pode encontrar esse perfume e mais opções na AmoBeleza. Se desejar, posso te enviar o link para compra. Como posso te ajudar mais?
+usuario: quais são as melhores ocasioes para eu poder usar ele ?
+Zoe: O perfume Giorgio Armani Sì Passione é ideal para ser usado em ocasiões especiais e românticas, como encontros, jantares elegantes, festas noturnas ou eventos importantes. Sua fragrância marcante e sedutora combina perfeitamente com momentos em que você deseja se destacar e deixar uma impressão duradoura. Experimente usá-lo em momentos em que queira se sentir confiante e irresistível. Espero ter ajudado! Se precisar de mais informações, estou à disposição.
+usuario: pode me mandar o link de compra ?
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: o link de compra do  Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar o  Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar o Giorgio Armani SÃ¬ Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: me mande o link de compra do quero comprar o
+Zoe: Desculpe, parece que houve um problema na sua pergunta. Você pode me informar qual perfume específico você gostaria de comprar da AmoBeleza para que eu possa te enviar o link correto? Estou aqui para te ajudar!
+usuario: quero comprar o Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar o Lancôme Idôle Aura
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar o Giorgio Armani Sì Passione
+Zoe: Não encontrei o perfume específico para gerar o link de compra.

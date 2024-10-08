@@ -1,0 +1,12 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Boa noite Zoe, quais marcas de perfumes vcs da Amobeleza tem ?
+Zoe: As marcas disponíveis são: Lancôme, Gabriela Sabatini, United Colors of Benetton, Giorgio Armani, Calvin Klein, Yves Saint Laurent, Shakira, Antonio Banderas, Montblanc, Jean Paul Gaultier.
+usuario: que otimo, gostaria de ver os perfumes da Yves Saint Laurent
+Zoe: Os perfumes disponíveis da marca yves saint laurent são:
+Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+usuario: em qual ocasiao me recomenda usar esse perfume ?
+Zoe: Recomendo usar esse perfume para ocasiões mais especiais, como eventos noturnos, festas, encontros românticos ou até mesmo para um jantar mais elegante. Sua fragrância é sofisticada e marcante, perfeita para momentos em que você quer se destacar e deixar uma boa impressão. Se precisar de mais informações sobre esse perfume ou outros, estou à disposição para ajudar.
+usuario: pode me madar o link de compra dele ?
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: gostaria do link de compra do Yves Saint Laurent Libre
+Zoe: Não encontrei o perfume específico para gerar o link de compra.

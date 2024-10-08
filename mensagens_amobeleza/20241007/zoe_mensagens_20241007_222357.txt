@@ -1,0 +1,17 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: me mande o link de compra do perfume Giorgio Armani Sì Passione
+Zoe: Aqui está o link de compra para o perfume Giorgio Armani Sì Passione: https://www.amobeleza.com.br/perfume-giorgio-armani-si-passione-feminino-eau-de-parfum-30-ml/p
+usuario: me mostre os perfumes com fragrancia floral
+Zoe: Os perfumes com a fragrância de floral são:
+Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+Benetton Colors Purple (Marca: United Colors of Benetton)
+Prada Paradoxe (Marca: Lancôme)
+Giorgio Armani Sì Passione (Marca: Giorgio Armani)
+usuario: agora quero que me mostre com fragrancia de baunilha
+Zoe: Os perfumes com a fragrância de Baunilha são:
+Lancôme Idôle Aura (Marca: Lancôme)
+usuario: posso usar o perfume Gabriela Sabatini Eau de Toilette em qual ocasiao ?
+Zoe: O perfume Gabriela Sabatini Eau de Toilette é uma fragrância versátil e pode ser usada em diversas ocasiões. Por ser um perfume fresco e suave, é ideal para o uso diário, tanto durante o dia quanto à noite. Pode ser usado no trabalho, em encontros casuais ou até mesmo em eventos mais formais. Sinta-se livre para desfrutar dessa fragrância em qualquer momento que desejar! Caso tenha interesse em adquirir o perfume, você pode encontrá-lo na AmoBeleza através deste link: [link de compra]. Espero ter ajudado! Posso ajudar com mais alguma dúvida?
+usuario: me mande o linkde compra do Gabriela Sabatini Eau de Toilette
+Zoe: Aqui está o link de compra para o perfume Gabriela Sabatini Eau de Toilette: https://www.amobeleza.com.br/perfume-gabriela-sabatini-feminino-eau-de-toilette-30-ml/p

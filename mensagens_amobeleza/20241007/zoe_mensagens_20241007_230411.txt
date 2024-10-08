@@ -1,0 +1,7 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Boa noite me recomende um perfume para um casamento
+Zoe: Eu recomendaria o perfume Yves Saint Laurent Libre para o casamento. Este perfume é sofisticado, elegante e possui uma fragrância floral amadeirada que é perfeita para uma ocasião especial como um casamento. Além disso, o Yves Saint Laurent Libre é um perfume marcante e duradouro, garantindo que você se destaque e deixe uma boa impressão durante a celebração.
+usuario: pode me madar o linkde compra dele ?
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: pode me madar o link de compra do  Yves Saint Laurent Libre 
+Zoe: Aqui está o link de compra para o perfume Yves Saint Laurent Libre: https://www.amobeleza.com.br/perfume-yves-saint-laurent-libre-feminino-eau-de-toilette-50-ml/p

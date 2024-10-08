@@ -1,0 +1,12 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: quero saber quais marcas de perfume vc tem na Amobeleza
+Zoe: As marcas disponíveis são: Lancôme, Gabriela Sabatini, Yves Saint Laurent, Montblanc, Shakira, Giorgio Armani, Calvin Klein, Jean Paul Gaultier, Antonio Banderas, United Colors of Benetton.
+usuario: Quero saber Shakira ?
+Zoe: Claro! A AmoBeleza oferece uma variedade de perfumes da marca Shakira. Eles são conhecidos por suas fragrâncias únicas e envolventes, que refletem a personalidade e estilo da cantora. Você pode encontrar os perfumes da Shakira disponíveis para compra em nosso site. Se precisar de mais informações ou ajuda para escolher o perfume ideal, estou à disposição para ajudar.
+usuario: quais perfumes Shakira  vcs tem ?
+Zoe: Os perfumes disponíveis da marca Shakira são:
+Shakira Dance Midnight Muse (Marca: Shakira)
+usuario: me mande o link de compra
+Zoe: Não encontrei o perfume específico para gerar o link de compra.
+usuario: quero comprar esse perfume Shakira Dance Midnight Muse 
+Zoe: Aqui está o link de compra para o perfume Shakira Dance Midnight Muse: https://www.amobeleza.com.br/perfume-shakira-dance-midnight-muse-feminino-eau-de-toilette-50-ml/p

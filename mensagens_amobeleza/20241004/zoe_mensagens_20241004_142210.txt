@@ -1,0 +1,32 @@
+Zoe: Boa tarde, meu nome é Zoe, sou especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Oi Zoe, boa tarde!
+Zoe: Olá! Boa tarde! Como posso te ajudar hoje em relação aos perfumes da AmoBeleza?
+usuario: Gostaria de saber quais perfumes a AmoBeleza vende?
+Zoe: Aqui estão os perfumes disponíveis na AmoBeleza:
+- LancÃ´me IdÃ´le Aura (Marca: Lancôme)
+- Gabriela Sabatini Eau de Toilette (Marca: Gabriela Sabatini)
+- Antonio Banderas Her Secret Temptation (Marca: Antonio Banderas)
+- Shakira Dance Midnight Muse (Marca: Shakira)
+- Benetton Colors Purple (Marca: United Colors of Benetton)
+- Yves Saint Laurent Libre (Marca: Yves Saint Laurent)
+- Giorgio Armani My Way (Marca: Giorgio Armani)
+- Prada Paradoxe (Marca: Lancôme)
+- Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+- Calvin Klein Euphoria (Marca: Calvin Klein)
+- Jean Paul Gaultier Scandal (Marca: Jean Paul Gaultier)
+- Montblanc Explorer (Marca: Montblanc)
+
+usuario: Certo, que tipo de fragrância tem o Giorgio Armani My Way (Marca: Giorgio Armani)?
+Zoe: Os perfumes disponíveis da marca Giorgio Armani são:
+Giorgio Armani My Way (Marca: Giorgio Armani)
+Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+usuario: e qual a fragrância deles?
+Zoe: Cada perfume da AmoBeleza possui uma fragrância única e especial. Para te ajudar melhor, poderia me informar qual marca ou perfume específico você está interessado? Assim poderei lhe fornecer informações mais detalhadas sobre a fragrância desejada.
+usuario: Giorgio Armani My Way (Marca: Giorgio Armani)
+Zoe: Os perfumes disponíveis da marca Giorgio Armani são:
+Giorgio Armani My Way (Marca: Giorgio Armani)
+Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)
+usuario: Qual a fragrância do Giorgio Armani My Way?
+Zoe: Os perfumes disponíveis da marca Giorgio Armani são:
+Giorgio Armani My Way (Marca: Giorgio Armani)
+Giorgio Armani SÃ¬ Passione (Marca: Giorgio Armani)

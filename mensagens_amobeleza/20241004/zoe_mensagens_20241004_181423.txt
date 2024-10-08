@@ -1,0 +1,6 @@
+Zoe: Boa noite, sou a Zoe, especialista em perfumes na AmoBeleza. Em que posso ajudá-lo?
+usuario: Zoe, vc tem algum perfume com fragrancia de baunilha ?
+Zoe: Os perfumes com a fragrância de Baunilha são:
+Lancôme Idôle Aura (Marca: Lancôme)
+usuario: Zoe, vc tem algum perfume com fragrancia de amadeirado ?
+Zoe: Não encontrei perfumes com a fragrância de Amadeirado..
