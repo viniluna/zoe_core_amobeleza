@@ -9,7 +9,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta
 import os
 import glob
-
+#teste
 # Definição de mensagens
 @dataclass
 class Mensagem:
