@@ -1,0 +1,4 @@
+langchain
+fuzzywuzzy
+langchain_community
+openai
